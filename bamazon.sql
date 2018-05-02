@@ -16,7 +16,7 @@ insert into products (product_name, department_name, price, stock_quantity)
 values("Shooting Star Press", "Finisher Moves", 5.00, 20);
 
 insert into products (product_name, department_name, price, stock_quantity)
-values("Super Kick!!!!!!", "Finisher Moves", 5.00, 20);
+values("Suuuuuuuuuuuper Kick!!!!!!", "Finisher Moves", 5.00, 20);
 
 insert into products (product_name, department_name, price, stock_quantity)
 values("One-Winged Angel", "Finisher Moves", 7.00, 10);
